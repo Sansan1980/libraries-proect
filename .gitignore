@@ -1,3 +1,6 @@
+
+.idea/
+
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
@@ -9,7 +12,7 @@ target/
 .idea/compiler.xml
 .idea/libraries/
 *.iws
-*.iml
+*.iml/
 *.ipr
 
 ### Eclipse ###
